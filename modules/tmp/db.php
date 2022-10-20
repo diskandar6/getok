@@ -1,1 +1,0 @@
-<?php $var=array('uab'=>'getok1','dbg'=>'getok1',);?>
